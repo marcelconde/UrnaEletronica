@@ -12,3 +12,7 @@
 # Disciplina de desenvolvimento mobile
 
 ### como este ano é ano de eleição, o projeto sugerido foi de criar uma urna eletrônica usando o framework Ionic.
+
+  Para rodar o projeto é necessário instalar as depedências do framework Ionic.
+ 
+As instruções de instalação estão no arquivo 
