@@ -15,4 +15,4 @@
 
   Para rodar o projeto é necessário instalar as depedências do framework Ionic.
  
-As instruções de instalação estão no arquivo 
+As instruções de instalação estão no arquivo Ambiente_linux.md
